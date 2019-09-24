@@ -1,0 +1,12 @@
+<linker>
+	<assembly fullname="UnityEngine.UnityWebRequestModule" preserve="nothing">
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.Networking.CertificateHandler" preserve="nothing">
+			<method name="ValidateCertificateNative"/>
+		</type>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngineInternal.WebRequestUtils" preserve="nothing">
+			<method name="RedirectTo"/>
+		</type>
+	</assembly>
+</linker>

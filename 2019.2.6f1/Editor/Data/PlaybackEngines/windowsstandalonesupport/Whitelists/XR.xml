@@ -1,0 +1,80 @@
+<linker>
+	<assembly fullname="UnityEngine.XRModule" preserve="nothing">
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.Experimental.XR.MeshGenerationResult" preserve="nothing"/>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.Experimental.XR.MeshGenerationStatus" preserve="nothing"/>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.Experimental.XR.XRCameraSubsystem" preserve="nothing">
+			<method name="InvokeFrameReceivedEvent"/>
+		</type>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.Experimental.XR.XRDepthSubsystem" preserve="nothing">
+			<method name="InvokePointCloudUpdatedEvent"/>
+		</type>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.Experimental.XR.XRDisplaySubsystem" preserve="nothing">
+			<method name="InvokeDisplayFocusChanged"/>
+		</type>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.Experimental.XR.XRExperienceSubsystem" preserve="nothing">
+			<method name="InvokeBoundaryChanged"/>
+			<method name="InvokeExperienceTypeChanged"/>
+		</type>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.Experimental.XR.XRGestureSubsystem" preserve="nothing">
+			<method name="InvokeHoldChanged"/>
+			<method name="InvokeManipulationChanged"/>
+			<method name="InvokeNavigationChanged"/>
+			<method name="InvokeRecognitionChanged"/>
+			<method name="InvokeTappedChanged"/>
+		</type>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.Experimental.XR.XRMeshSubsystem" preserve="nothing">
+			<method name="InvokeMeshReadyDelegate"/>
+		</type>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.Experimental.XR.XRPlaneSubsystem" preserve="nothing">
+			<method name="InvokePlaneAddedEvent"/>
+			<method name="InvokePlaneRemovedEvent"/>
+			<method name="InvokePlaneUpdatedEvent"/>
+		</type>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.Experimental.XR.XRReferencePointSubsystem" preserve="nothing">
+			<method name="InvokeReferencePointUpdatedEvent"/>
+		</type>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.Experimental.XR.XRSessionSubsystem" preserve="nothing">
+			<method name="InvokeTrackingStateChangedEvent"/>
+		</type>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.Internal_SubsystemDescriptors" preserve="nothing">
+			<method name="Internal_AddDescriptor"/>
+			<method name="Internal_ClearManagedDescriptors"/>
+			<method name="Internal_InitializeManagedDescriptor"/>
+		</type>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.Internal_SubsystemInstances" preserve="nothing">
+			<method name="Internal_ClearManagedInstances"/>
+			<method name="Internal_InitializeManagedInstance"/>
+			<method name="Internal_RemoveInstanceByPtr"/>
+		</type>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.SubsystemManager" preserve="nothing">
+			<method name="Internal_ReloadSubsystemsCompleted"/>
+			<method name="Internal_ReloadSubsystemsStarted"/>
+		</type>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.XR.Bone" preserve="nothing"/>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.XR.Eyes" preserve="nothing"/>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.XR.Hand" preserve="nothing"/>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.XR.InputFeatureUsage" preserve="nothing"/>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.XR.InputTracking" preserve="nothing">
+			<method name="InvokeTrackingEvent"/>
+		</type>
+	</assembly>
+</linker>

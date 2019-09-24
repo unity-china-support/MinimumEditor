@@ -1,0 +1,48 @@
+<linker>
+	<assembly fullname="UnityEngine.AnimationModule" preserve="nothing">
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.AnimationEvent" preserve="nothing"/>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.Animations.AnimationClipPlayable" preserve="nothing"/>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.Animations.AnimationLayerMixerPlayable" preserve="nothing"/>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.Animations.AnimationMixerPlayable" preserve="nothing"/>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.Animations.AnimationMotionXToDeltaPlayable" preserve="nothing"/>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.Animations.AnimationOffsetPlayable" preserve="nothing"/>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.Animations.AnimationPlayableOutput" preserve="nothing"/>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.Animations.AnimationPosePlayable" preserve="nothing"/>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.Animations.AnimationRemoveScalePlayable" preserve="nothing"/>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.Animations.AnimatorControllerPlayable" preserve="nothing"/>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.Animations.NotKeyableAttribute" preserve="nothing"/>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.AnimatorOverrideController" preserve="nothing">
+			<method name="OnInvalidateOverrideController"/>
+		</type>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.AnimatorStateInfo" preserve="nothing"/>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.AnimatorTransitionInfo" preserve="nothing"/>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.Experimental.Animations.AnimationHumanStream" preserve="nothing"/>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.Experimental.Animations.AnimationScriptPlayable" preserve="nothing"/>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.Experimental.Animations.AnimationStream" preserve="nothing"/>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.HumanBone" preserve="nothing"/>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.SharedBetweenAnimatorsAttribute" preserve="nothing"/>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.SkeletonBone" preserve="nothing"/>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.StateMachineBehaviour" preserve="nothing"/>
+	</assembly>
+</linker>

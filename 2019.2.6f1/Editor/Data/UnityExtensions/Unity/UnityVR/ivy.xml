@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
+  <info organisation="Unity" module="UnityVR" e:packageType="UnityExtension" />
+  <publications>
+    <artifact name="Editor/UnityEditor.VR" type="dll" ext="dll" e:guid="4ba2329b63d54f0187bcaa12486b1b0f" />
+  </publications>
+</ivy-module>

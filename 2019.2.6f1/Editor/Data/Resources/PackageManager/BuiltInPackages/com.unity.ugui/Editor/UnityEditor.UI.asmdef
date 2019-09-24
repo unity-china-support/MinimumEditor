@@ -1,0 +1,11 @@
+{
+    "name": "UnityEditor.UI",
+ 
+    "references": [
+      "UnityEngine.UI"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

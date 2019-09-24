@@ -1,0 +1,15 @@
+<linker>
+	<assembly fullname="UnityEngine.UIElementsModule" preserve="nothing">
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.UIElements.UIR.Utility" preserve="nothing">
+			<method name="RaiseEngineUpdate"/>
+			<method name="RaiseFlushPendingResources"/>
+			<method name="RaiseGraphicsResourcesRecreate"/>
+		</type>
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.Yoga.Native" preserve="nothing">
+			<method name="YGNodeBaselineInvoke"/>
+			<method name="YGNodeMeasureInvoke"/>
+		</type>
+	</assembly>
+</linker>

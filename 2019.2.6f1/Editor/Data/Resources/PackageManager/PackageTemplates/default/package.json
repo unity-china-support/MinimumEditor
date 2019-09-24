@@ -1,0 +1,8 @@
+{
+	"name": "#NAME#",
+	"displayName":"#DISPLAYNAME#",
+	"version": "0.0.1",
+	"unity": "#UNITYVERSION#",
+	"dependencies": {
+	}
+}

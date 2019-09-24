@@ -1,0 +1,10 @@
+<linker>
+	<assembly fullname="UnityEngine.DirectorModule" preserve="nothing">
+<!--THIS FILE IS GENERATED DURING BUILD. DO NOT HAND EDIT. See https://confluence.hq.unity3d.com/display/DEV/How+to+Use+Scripting+Classes+and+Methods+from+Native+Code for more info.-->
+		<type fullname="UnityEngine.Playables.PlayableDirector" preserve="nothing">
+			<method name="SendOnPlayableDirectorPause"/>
+			<method name="SendOnPlayableDirectorPlay"/>
+			<method name="SendOnPlayableDirectorStop"/>
+		</type>
+	</assembly>
+</linker>

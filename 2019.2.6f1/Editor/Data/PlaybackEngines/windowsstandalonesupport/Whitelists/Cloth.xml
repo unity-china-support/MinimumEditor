@@ -1,0 +1,4 @@
+<linker>
+	<assembly fullname="UnityEngine.ClothModule" preserve="nothing">
+	</assembly>
+</linker>

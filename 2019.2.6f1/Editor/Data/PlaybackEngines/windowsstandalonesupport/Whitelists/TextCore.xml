@@ -1,4 +1,0 @@
-<linker>
-	<assembly fullname="UnityEngine.TextCoreModule" preserve="nothing">
-	</assembly>
-</linker>

@@ -1,4 +1,0 @@
-<linker>
-	<assembly fullname="UnityEngine.ARModule" preserve="nothing">
-	</assembly>
-</linker>
